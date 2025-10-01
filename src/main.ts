@@ -12,7 +12,7 @@ let counter: number = 0;
 // Create basic HTML structure
 document.body.innerHTML = `
   <h1>CMPM 121 Project</h1>
-  <p>Counter: <span id="counter">${counter}</span></p>
+  <p>Boops: <span id="counter">${counter}</span></p>
   <button id="increment">Lets GO!!!</button>
 `;
 

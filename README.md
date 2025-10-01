@@ -16,4 +16,8 @@ Key Ⱦꝋꝋłꞩ
 
 ...
 
+I MADE THE BUTTON WORK AND THATS IT CAUSE PHONE UI IS ANNOYING
+
+I also changed "CLick Me" to "Lets GO!!!"
+
 (This section activity was done by Adira Rana)

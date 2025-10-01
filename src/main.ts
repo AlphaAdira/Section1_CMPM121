@@ -13,7 +13,7 @@ let counter: number = 0;
 document.body.innerHTML = `
   <h1>CMPM 121 Project</h1>
   <p>Counter: <span id="counter">${counter}</span></p>
-  <button id="increment">Click Me!</button>
+  <button id="increment">Lets GO!!!</button>
 `;
 
 // Add click handler
